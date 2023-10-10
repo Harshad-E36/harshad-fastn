@@ -1,17 +1,17 @@
--- import: <user_name>.github.io/<repo_name>
+-- import: harshad-e36.github.io/harshad-fastn
 
 
 
--- site-doc.doc-home: <repo_name> package
-site-title: `<repo_name>`
+-- site-doc.doc-home: harshad-fastn package
+site-title: `harshad-fastn`
 show-tabs: false
-github-url: <user_name>.github.io/<repo_name>
-current-package: <user_name>.github.io/<repo_name>
+github-url: harshad-e36.github.io/harshad-fastn
+current-package: harshad-e36.github.io/harshad-fastn
 
-Below are our default fastn `inherited` font types of <repo_name>.
+Below are our default fastn `inherited` font types of harshad-fastn.
 
 -- display-type:
-types: $<repo_name>.types
+types: $harshad-fastn.types
 
 
 -- end: site-doc.doc-home
